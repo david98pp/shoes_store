@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/david/shoes_store/BuildConfig.java
- com.david.shoes_store.BuildConfig
